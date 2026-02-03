@@ -1,0 +1,8 @@
+torch
+torchvision
+pandas
+numpy
+pillow
+tqdm
+scikit-learn
+requests
